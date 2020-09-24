@@ -3,6 +3,9 @@
 ### [Full Video Demo](https://drive.google.com/file/d/1SvbgUer8KLrG2KM_eLNnITzRAoMSnhOb/view?usp=sharing)
 
 
+NOTE : You have to add API key with paid Account & (I have added Permissions only for Android).
+
+
 ![20200924_125618](https://user-images.githubusercontent.com/69294119/94114746-6605d900-fe66-11ea-85f7-86294a2b2c9e.gif)
 
 ![20200924_123235](https://user-images.githubusercontent.com/69294119/94114764-6a31f680-fe66-11ea-8da0-35df9f24d2cd.gif)
