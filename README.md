@@ -5,6 +5,13 @@
 
 NOTE : You have to add API key with paid Account & (I have added Permissions only for Android).
 
+#### Add this line of code in your App Manifest.
+
+```
+<uses-permission android:name="android.permission.INTERNET" />
+```
+
+
 
 ![20200924_125618](https://user-images.githubusercontent.com/69294119/94114746-6605d900-fe66-11ea-85f7-86294a2b2c9e.gif)
 ![20200924_123235](https://user-images.githubusercontent.com/69294119/94114764-6a31f680-fe66-11ea-8da0-35df9f24d2cd.gif)
